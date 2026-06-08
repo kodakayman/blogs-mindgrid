@@ -11,49 +11,51 @@ author: "Mark"
 
 Your score just came in. Maybe it was higher than you expected. Maybe lower. Either way, you're here. Which means you're doing what literally everyone does after an IQ test: frantically searching to figure out if that number is "good."
 
-That's normal. IQ scores are weird. They're a single number that somehow claims to measure your brain. And nobody really explains what they actually mean in plain English.
+That's normal. IQ scores are weird. They're a single number that claims to measure your brain. And nobody really explains what they actually mean.
 
-So here's the honest breakdown. No gatekeeping. No "it depends on how you define intelligence" academic hedging. Just what your score actually means and where you stand.
+So here's the honest breakdown. No gatekeeping. No "it depends on how you define intelligence" academic hedging. Just what your score actually means.
 
 ## What IQ Actually Measures
 
-IQ tests measure a specific bundle of cognitive abilities. Pattern recognition. Logical reasoning. Spatial reasoning. Working memory. Processing speed.
+IQ tests measure a specific bundle of cognitive abilities. Pattern recognition, logical reasoning, spatial reasoning, working memory, and processing speed.
 
 That's it. IQ does not measure creativity. It doesn't measure emotional intelligence. It doesn't measure whether you're good at talking to people at parties or whether you can write a song.
 
-A genius painter with terrible pattern-recognition skills might score average on IQ. A software engineer who can blast through matrix reasoning might score highly but be terrible at reading a room. The test has a scope. It measures what it measures.
+A genius painter with terrible pattern-recognition skills might score average on IQ. A software engineer who blasts through matrix reasoning might score highly but be terrible at reading a room. The test has a scope. It measures what it measures.
 
 ## The IQ Scale
 
-130 or above puts you in the top 2%. That's Mensa territory. Your brain processes complex patterns faster than most people's.
+Let's run through the numbers.
 
-120 to 129 is the top 9%. Strong analytical thinker. STEM fields probably feel natural to you.
+130 or above puts you in the top 2%. Mensa territory. Your brain processes complex patterns faster than most people.
 
-110 to 119 is the top 25%. Above average. You're a good problem-solver and a quick learner.
+120 to 129 is the top 9%. Strong analytical thinker. STEM fields probably feel natural.
 
-90 to 109 is the middle 50%. Right in the center. Half the population sits here.
+110 to 119 is the top 25%. Above average. Good problem-solver, quick learner.
 
-80 to 89 is the bottom 25%. Below average. You might struggle with abstract reasoning, but you're perfectly functional in most life tasks.
+Now the middle. 90 to 109 is where half the population sits. Right in the center. You can do most jobs, learn most skills, live a completely normal life. The world literally runs on this group.
 
-Below 80 is the bottom 10%. You may need accommodations for complex academic or analytical tasks.
+Below that, 80 to 89 is the bottom 25%. Below average. You might struggle with abstract reasoning, but you're functional in most tasks.
 
-The difference between 115 and 125 is significant. A 115 is "smart, good with logic." A 125 is "this person can learn abstract math without wanting to cry." The difference between 100 and 110? Less dramatic. Both are solid. IQ matters most at the extremes.
+Below 80 is the bottom 10%. You may need accommodations for complex analytical work, but plenty of people in this range build good lives.
 
-## Is My IQ Good?
+The jumps matter more at the extremes. The difference between 115 and 125 is real. A 115 is "smart, good with logic." A 125 is "this person can learn abstract math without wanting to cry." The difference between 100 and 110? Less dramatic. Both are solid. IQ just matters most when you're far from the middle.
 
-If you scored 100, you're average. That's not an insult. Half the world is average. You can do most jobs, learn most skills, and live a completely normal life. The world runs on people with 100 IQ.
+## Is My IQ Score "Good"?
+
+If you scored 100, you're average. That's not an insult. Half the world is average. The world runs on people with 100 IQ.
 
 If you scored 115, you're bright. You probably picked up math faster than classmates. You spot patterns others miss. Most professional jobs fit you comfortably.
 
-If you scored 130 or above, you're in the top 2%. This doesn't make you a genius automatically, but it means your brain handles complexity with less friction. You probably found school boring because it moved too slow.
+If you scored 130 or above, you're in the top 2%. This doesn't make you a genius automatically, but your brain handles complexity with less friction. You probably found school boring because it moved too slow.
 
-If you scored below 90, you're below average. This is also not a disaster. Plenty of successful people score here. IQ measures specific skills. Not your worth. Not your work ethic. Not your ability to build a good life.
+If you scored below 90, you're below average. This is not a disaster. Plenty of successful people score here. IQ measures specific skills. Not your worth. Not your work ethic. Not your ability to build a good life.
 
-## Percentiles: The Number That Matters More Than IQ
+## Percentiles: More Useful Than The Raw Score
 
-Your percentile tells you more than your raw score.
+Your percentile tells you more than your IQ number.
 
-100 IQ equals 50th percentile. You're smarter than 50% of people tested.
+100 IQ equals 50th percentile. Smarter than half of people tested.
 
 115 IQ equals 84th percentile. Smarter than 84%.
 
@@ -63,27 +65,29 @@ Your percentile tells you more than your raw score.
 
 Percentiles are easier to grasp than IQ points. "I'm in the 94th percentile" lands harder than "I scored 124."
 
-## Why Your Full Cognitive Profile Matters More Than One Number
+## Why Your Full Profile Matters More Than One Number
 
-Here's the problem with a single IQ score. It hides how your brain actually works.
+One IQ score hides how your brain actually works.
 
-Two people can both score 120 but get there completely differently. One person might crush the pattern recognition but struggle with verbal logic. Another might ace everything abstract but have weaker working memory.
+Two people can both score 120 but get there completely differently. One crushes pattern recognition but struggles with verbal logic. Another aces everything abstract but has weaker working memory.
 
 Same score. Very different brains.
 
-This is why MindGrid doesn't just give you a number. We break your results into cognitive archetypes. Your dominant mental strengths. Maybe you're a Visual Architect. Someone who thinks in 3D, sees spatial relationships instantly, solves problems by mentally moving pieces around. Or maybe you're a Pattern Lord. Someone who sees rules in chaos immediately.
+That's why MindGrid doesn't just give you a number. We break results into cognitive archetypes. Your dominant mental strengths.
 
-The archetype tells you how you think. The IQ just tells you how much in a generic sense.
+Maybe you're a Visual Architect, someone who thinks in 3D and solves problems by mentally moving pieces around. Or a Pattern Lord, someone who sees rules in chaos immediately.
+
+The archetype tells you how you think. The IQ just tells you how much, in a generic sense.
 
 ## Can IQ Change?
 
-Short answer: slightly, not dramatically.
+Slightly. Not dramatically.
 
 Your IQ is about 50 to 80% genetic. The rest comes from education, nutrition, sleep, and whether you grew up in a stimulating environment.
 
 You won't go from 95 to 130 by doing Sudoku. But you can optimize what you have.
 
-Sleep 8 hours. Sleep deprivation drops IQ-equivalent performance by 10 to 15 points. Exercise. Cardio increases blood flow to the brain and measurably improves processing speed. Learn deeply. Complex skills like math, languages, or music build the neural networks IQ tests measure. Stop multitasking. Context-switching destroys the working memory IQ tests reward.
+Sleep matters. Sleep deprivation drops IQ-equivalent performance by 10 to 15 points. Exercise increases blood flow to the brain and measurably improves processing speed. Learning complex skills like math, languages, or music builds the neural networks that IQ tests measure. And stop multitasking. Context-switching destroys the working memory those tests reward.
 
 Think of it like height. You're not getting taller at 25. But you can learn to stand straighter.
 
